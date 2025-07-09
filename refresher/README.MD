@@ -8,5 +8,5 @@ Some information about the scripts:
 
 
 
-> [!WARNING]
+> [!CAUTION]
 > *matr_bas_opers* would go into an infinite loop if the user enters a wrong character. This is because the *cin* buffer is not cleared when going into the iteration of the loop.  
