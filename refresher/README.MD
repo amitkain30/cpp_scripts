@@ -10,8 +10,5 @@ Some information about the scripts:
 
 4. *upper_lower_case*: Count upper and lower case alphabets from a string using file handling. 
 
-[!WARNING]
-
-
 > [!CAUTION]
 > *matr_bas_opers* would go into an infinite loop if the user enters a wrong character. This is because the *cin* buffer is not cleared when going into the iteration of the loop.  
